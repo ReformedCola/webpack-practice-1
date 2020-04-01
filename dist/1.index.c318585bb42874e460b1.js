@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{9:function(n,o,c){"use strict";function a(){console.log("I am a crazy loading model")}c.r(o),c.d(o,"default",(function(){return a}))}}]);
